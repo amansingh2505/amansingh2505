@@ -33,12 +33,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose_pine&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amansingh2505&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh2505&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=rose_pine&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh2505&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
