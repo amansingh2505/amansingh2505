@@ -2,8 +2,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/BTech-CSIT%20'27-FF2E63?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Web_Dev-08D9D6?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Focused-252A34?style=for-the-badge&logo=terminal&logoColor=eaeaea" />
+  <img src="https://img.shields.io/badge/Focus-Web_Dev-2D1B69?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Focused-2CB81F?style=for-the-badge&logo=terminal&logoColor=eaeaea" />
 </p>
 
 ### 🚀 About Me
