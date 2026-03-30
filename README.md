@@ -1,9 +1,9 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=00E5FF&width=500&lines=Hello+,+I+am+Aman+Singh+!)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BTech-CSIT%20'27-F5E0DC?style=flat&logo=bookstack&logoColor=1E1E2E" />
-  <img src="https://img.shields.io/badge/Focus-Software_Eng-B4BEFE?style=flat&logo=visualstudiocode&logoColor=1E1E2E" />
-  <img src="https://img.shields.io/badge/Status-Collaborating-A6E3A1?style=flat&logo=git&logoColor=1E1E2E" />
+  <img src="https://img.shields.io/badge/BTech-CSIT%20'27-FF2E63?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Web_Dev-08D9D6?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Focused-252A34?style=for-the-badge&logo=terminal&logoColor=eaeaea" />
 </p>
 
 ### 🚀 About Me
