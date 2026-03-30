@@ -1,34 +1,43 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello+,+I+am+Aman+Singh+!)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BTech-CSIT%20'27-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/BTech-CSIT%20'27-E5738A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-313244?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-A6ADC8?style=flat-square" />
 </p>
 
-🚀 **Passionate about building scalable web applications and impactful systems.** I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+🚀 **Passionate about building scalable web applications and impactful systems.** I enjoy turning complex problems into simple, beautiful, and intuitive designs. Currently honing my skills in full-stack development and system architecture.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frontend** ![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,py)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Frontend** | ![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,py&theme=dark) |
+| **Backend & Databases** | ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark) |
+| **Tools & DevOps** | ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark) |
 
-**Backend & Databases** ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+---
 
-**Tools & DevOps** ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
+### 🚀 Featured Project: ORVBA
+**On-Road Vehicle Breakdown Assistance**
+* **The Problem:** Stranded drivers often struggle to find reliable mechanical help in unfamiliar areas.
+* **The Solution:** A real-time platform connecting users with nearby mechanics using geolocation.
+* **Tech Stack:** `Node.js`, `Express`, `MongoDB`, `Google Maps API`.
+* 🔗 [View Repository](https://github.com/YOUR_USERNAME/ORVBA) | [System Design DFD](https://github.com/YOUR_USERNAME/ORVBA#documentation)
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=rose_pine&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose_pine&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
@@ -42,7 +51,7 @@
 
 ---
 
-### ⚡ Random Fact
-- 🔭 I’m currently working on **[Insert Your Project Name]**
-- 🌱 I’m currently learning **Advanced Backend Patterns & System Design**
-- 💬 Ask me about **MERN Stack or why I love JavaScript**
+### ⚡ Quick Bits
+- 🔭 I’m currently working on **Improving ORVBA's real-time tracking**
+- 🌱 I’m currently learning **Advanced System Design & React**
+- 💬 Ask me about **JavaScript, ICT in Agriculture, or Web Optimization**
