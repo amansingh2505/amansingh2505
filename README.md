@@ -1,12 +1,13 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello+,+I+am+Aman+Singh+!)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BTech-CSIT%20'27-E5738A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-313244?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-A6ADC8?style=flat-square" />
+  <img src="https://img.shields.io/badge/BTech-CSIT%20'27-E5738A?style=for-the-badge&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Dev-313244?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Collaborating-A6ADC8?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-🚀 **Passionate about building scalable web applications and impactful systems.** I enjoy turning complex problems into simple, beautiful, and intuitive designs. Currently honing my skills in full-stack development and system architecture.
+### 🚀 About Me
+**Passionate about building scalable web applications and impactful systems.** I enjoy turning complex problems into simple, beautiful, and intuitive designs. Currently honing my skills in full-stack development and system architecture with a focus on real-world impact.
 
 ---
 
