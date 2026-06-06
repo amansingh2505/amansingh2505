@@ -28,27 +28,18 @@
 * **Tech Stack:** `Node.js`, `Express`, `JavaScript`, `IoT Integration`
 * 🔗 [View Repository](https://github.com/amansingh2505/Annavaani) *(Update link if repository name differs)*
 
-### 🚗 Featured Project: ORVBA
-**On-Road Vehicle Breakdown Assistance**
-* **The Problem:** Stranded drivers often struggle to find reliable mechanical help in unfamiliar areas.
-* **The Solution:** A real-time platform connecting users with nearby mechanics using geolocation.
-* **Tech Stack:** `Node.js`, `Express`, `MongoDB`, `Google Maps API`.
-* 🔗 [View Repository](https://github.com/amansingh2505/ORVBA) | [System Design DFD](https://github.com/amansingh2505/ORVBA#documentation)
-
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amansingh2505&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh2505&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=amansingh2505&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=amansingh2505&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh2505&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ### 📬 Connect with Me
 
