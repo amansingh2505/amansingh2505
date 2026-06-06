@@ -25,8 +25,8 @@
 **Smart Storage Grain System**
 * **The Problem:** Inefficient monitoring of grain storage environments leads to massive agricultural losses.
 * **The Solution:** A streamlined hardware-software integration focusing strictly on pure functional monitoring of environmental factors. The dashboard delivers raw, real-time data visualization without the overhead of user logins or complex settings profiles.
-* **Tech Stack:** `Node.js`, `Express`, `JavaScript`, `IoT Integration`
-* 🔗 [View Repository](https://github.com/amansingh2505/Annavaani) *(Update link if repository name differs)*
+* **Tech Stack:** `Node.js`, `Express`, `JavaScript`, `IoT Integration`.
+* 🔗 [View Repository](https://github.com/amansingh2505/Annavaani)
 
 ---
 
