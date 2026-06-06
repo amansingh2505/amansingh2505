@@ -21,12 +21,19 @@
 
 ---
 
-### 🚀 Featured Project: ORVBA
+### 🌾 Featured Project: Annavaani
+**Smart Storage Grain System**
+* **The Problem:** Inefficient monitoring of grain storage environments leads to massive agricultural losses.
+* **The Solution:** A streamlined hardware-software integration focusing strictly on pure functional monitoring of environmental factors. The dashboard delivers raw, real-time data visualization without the overhead of user logins or complex settings profiles.
+* **Tech Stack:** `Node.js`, `Express`, `JavaScript`, `IoT Integration`
+* 🔗 [View Repository](https://github.com/amansingh2505/Annavaani) *(Update link if repository name differs)*
+
+### 🚗 Featured Project: ORVBA
 **On-Road Vehicle Breakdown Assistance**
 * **The Problem:** Stranded drivers often struggle to find reliable mechanical help in unfamiliar areas.
 * **The Solution:** A real-time platform connecting users with nearby mechanics using geolocation.
 * **Tech Stack:** `Node.js`, `Express`, `MongoDB`, `Google Maps API`.
-* 🔗 [View Repository](https://github.com/YOUR_USERNAME/ORVBA) | [System Design DFD](https://github.com/YOUR_USERNAME/ORVBA#documentation)
+* 🔗 [View Repository](https://github.com/amansingh2505/ORVBA) | [System Design DFD](https://github.com/amansingh2505/ORVBA#documentation)
 
 ---
 
@@ -53,6 +60,6 @@
 ---
 
 ### ⚡ Quick Bits
-- 🔭 I’m currently working on **Improving ORVBA's real-time tracking**
+- 🔭 I’m currently working on **Annavaani & Improving ORVBA's tracking**
 - 🌱 I’m currently learning **Advanced System Design & React**
 - 💬 Ask me about **JavaScript, ICT in Agriculture, or Web Optimization**
