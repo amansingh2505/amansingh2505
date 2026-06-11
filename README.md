@@ -1,17 +1,17 @@
 # Hi 👋, I'm Aman Singh
 
-### Software Engineering Student | Full-Stack Developer | Problem Solver
+### Computer Science Student | Full-Stack Developer | Problem Solver
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech student with a strong foundation in Computer Science fundamentals
-- 💻 Skilled in developing responsive and scalable web applications
-- 🧩 Passionate about Data Structures, Algorithms, and Software Development
-- 🚀 Continuously expanding my expertise in full-stack technologies and modern development practices
-- 🤝 Open to collaborating on innovative projects and open-source contributions
-- 🎯 Seeking opportunities to apply technical skills to solve real-world problems
+- 🎓 B.Tech student with an interest in Software Development and Web Technologies.
+- 💻 Building full-stack applications using React, Node.js, Express.js, and MySQL.
+- ☕ Strong foundation in Java and actively practicing Data Structures & Algorithms.
+- 🌾 Developed an IoT-based Smart Grain Storage Monitoring System recognized at multiple innovation competitions.
+- 🚀 Currently improving my backend development and problem-solving skills.
+- 🎯 Seeking software engineering opportunities where I can contribute and continue learning.
 
 ---
 
@@ -74,11 +74,11 @@
 
 ## 📊 GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amansingh2505&show_icons=true&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amansingh2505&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh2505&layout=compact&theme=github_dark)
 
 ---
 
@@ -96,7 +96,3 @@
 
 ---
 
-### 💡 Quote
-
-> "Building software that is practical, scalable, and impactful."
-```
