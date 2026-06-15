@@ -51,11 +51,6 @@
 - Developed responsive UI and integrated backend services.
 - Implemented CRUD operations and database management.
 
-### 📦 Decapsule
-- Developed a secure platform for storing and sharing digital memories and important information.
-- Implemented authentication and user management features.
-- Focused on security, accessibility, and user experience.
-
 ### 🌾 Smart Grain Storage Monitoring System
 - Developed an IoT-based grain monitoring system for temperature, humidity, moisture, and gas levels.
 - Created a dashboard for real-time monitoring and visualization.
