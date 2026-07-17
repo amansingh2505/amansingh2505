@@ -67,15 +67,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amansingh2505&show_icons=true&theme=github_dark)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-ecru-tau-20.vercel.app/api?username=amansingh2505&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=amansingh2505&theme=github-dark&hide_border=true" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amansingh2505&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh2505&layout=compact&theme=github_dark)
-
----
+<p align="center">
+  <img width="42%" src="https://github-readme-stats-ecru-tau-20.vercel.app/api/top-langs/?username=amansingh2505&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ## 📬 Connect With Me
 
