@@ -1,21 +1,21 @@
-# Hi 👋, I'm Aman Singh
+# Hi ??, I'm Aman Singh
 
 ### Computer Science Student | Full-Stack Developer | Problem Solver
 
 ---
 
-## 👨‍💻 About Me
+## ????? About Me
 
-- 🎓 B.Tech student with an interest in Software Development and Web Technologies.
-- 💻 Building full-stack applications using React, Node.js, Express.js, and MySQL.
-- ☕ Strong foundation in Java and actively practicing Data Structures & Algorithms.
-- 🌾 Developed an IoT-based Smart Grain Storage Monitoring System recognized at multiple innovation competitions.
-- 🚀 Currently improving my backend development and problem-solving skills.
-- 🎯 Seeking software engineering opportunities where I can contribute and continue learning.
+- ?? B.Tech student passionate about software development, web technologies, and system design.
+- ?? Building responsive full-stack applications using React, Node.js, Express.js, and MySQL.
+- ? Strong foundation in Java, C++, and competitive programming.
+- ?? Created an IoT-based Smart Grain Storage Monitoring System showcased at innovation competitions.
+- ?? Focused on backend development, scalable APIs, and real-world problem solving.
+- ?? Seeking software engineering roles where I can contribute, learn, and grow.
 
 ---
 
-## 🛠️ Technical Skills
+## ??? Technical Skills
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,30 +44,30 @@
 
 ---
 
-## 🚀 Featured Projects
+## ?? Featured Projects
 
-### 🌐 Airbnb Clone
-- Built a full-stack accommodation booking platform with authentication and property listings.
-- Developed responsive UI and integrated backend services.
-- Implemented CRUD operations and database management.
+### ?? Airbnb Clone
+- Built a responsive booking platform with authentication and property listings.
+- Integrated frontend with backend APIs using Node.js and Express.
+- Added CRUD functionality and persistent storage with MySQL.
 
-### 🌾 Smart Grain Storage Monitoring System
-- Developed an IoT-based grain monitoring system for temperature, humidity, moisture, and gas levels.
-- Created a dashboard for real-time monitoring and visualization.
+### ?? Smart Grain Storage Monitoring System
+- Developed an IoT-based system to monitor temperature, humidity, moisture, and gas levels.
+- Built a real-time dashboard for data visualization and alerts.
 - Awarded Best Innovation Prize at Technoverse, AKGEC.
 
 ---
 
-## 📈 Current Focus
+## ?? Current Focus
 
-- Data Structures & Algorithms
-- Full-Stack Web Development
-- Software Engineering Best Practices
-- Technical Interview Preparations
+- Advanced Data Structures & Algorithms
+- Scalable Full-Stack Web Development
+- Clean Code & Software Engineering Best Practices
+- Interview preparation and system design fundamentals
 
 ---
 
-## 📊 GitHub Statistics
+## ?? GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-ecru-tau-20.vercel.app/api?username=amansingh2505&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
@@ -78,7 +78,7 @@
   <img width="42%" src="https://github-readme-stats-ecru-tau-20.vercel.app/api/top-langs/?username=amansingh2505&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-## 📬 Connect With Me
+## ?? Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aman-singh-586976326/">
@@ -89,6 +89,3 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-
----
-
