@@ -63,7 +63,7 @@
 - Data Structures & Algorithms
 - Full-Stack Web Development
 - Software Engineering Best Practices
-- Technical Interview Preparation
+- Technical Interview Preparations
 
 ---
 
